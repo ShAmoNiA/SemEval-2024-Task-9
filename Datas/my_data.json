@@ -1,0 +1,302 @@
+[
+    {
+        "question": "I have keys but no locks. I have space but no room. You can enter, but you can't go inside. What am I?",
+        "choice_list": [
+            "A keyboard's keys unlock the digital world, lacking physical locks.",
+            "A parking lot provides space for vehicles without enclosed rooms.",
+            "A webpage allows entry but lacks a tangible inside.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I can be cracked, made, told, and played. What am I?",
+        "choice_list": [
+            "A joke can be cracked, created, shared, and enjoyed through laughter.",
+            "A code can be deciphered, written, shared, and executed.",
+            "A song can be composed, sung, shared, and performed.",
+            "None of the above"
+        ],
+        "choice_order": 2
+    },
+    {
+        "question": "I have keys but open no locks. I have space but no room. You can enter, but you can't go inside. What am I?",
+        "choice_list": [
+            "A keyboard's keys unlock the digital realm, lacking physical locks.",
+            "A suitcase has keys for locks but doesn't provide living space.",
+            "A library contains keys to knowledge but lacks physical rooms.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I have a heart that doesn't beat. I can be broken and held. What am I?",
+        "choice_list": [
+            "A promise has a figurative heart, breaking when not kept.",
+            "A mirror has a reflective surface, breakable and handheld.",
+            "A rock, though heartless, can be broken and held in hand.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "The more you take, the more you leave behind. What am I?",
+        "choice_list": [
+            "A photographer captures memories, taking pictures but leaving the moment behind.",
+            "Footsteps imprint the ground, leaving a trail with every step taken.",
+            "Time moves forward, taking moments into the past.",
+            "None of the above"
+        ],
+        "choice_order": 3
+    },
+    {
+        "question": "I have a neck but no head. I have a body but no apparel. What am I?",
+        "choice_list": [
+            "A bottle has a neck but lacks a distinct head, holding liquid within.",
+            "A clock has a neck-like structure for hanging but no traditional head.",
+            "A tree has a trunk representing a body without human-like apparel.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I am always hungry. I must always be fed. The finger I lick will soon turn red. What am I?",
+        "choice_list": [
+            "Fire is always hungry for fuel, requiring continuous feeding.",
+            "Time, constantly moving forward, hungers for events to unfold.",
+            "A cat, known for grooming with its tongue, can cause a red mark if licked.",
+            "None of the above"
+        ],
+        "choice_order": 3
+    },
+    {
+        "question": "I'm tall when I'm young and short when I'm old. What am I?",
+        "choice_list": [
+            "A candle, standing tall when first lit, shortening as it burns over time.",
+            "A giraffe, known for its height, appears shorter as it ages.",
+            "A person, growing taller in youth and shrinking in height with age.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "choice_list": [
+            "The letter 'M' appears once in the word 'minute,' twice in 'moment,' and is absent in 'thousand years.'",
+            "A memory occurs once in a minute, twice in a moment, but is not limited by a thousand years.",
+            "A mistake may happen once in a minute, twice in a moment, but rarely in a thousand years.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",
+        "choice_list": [
+            "Pencil lead, mined and encased in wood, used by people for writing.",
+            "Coal, extracted from mines and stored in wooden crates, widely used for fuel.",
+            "Gold, mined and encased in wooden boxes, valued and utilized by many.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "The more you take, the more you leave behind. What am I?",
+        "choice_list": [
+            "A dancer leaves behind an impression, taking graceful steps across the stage.",
+            "A mirror reflects images, taking the likeness of whoever stands before it.",
+            "A vacuum cleaner takes away dust, leaving a clean and spotless space.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "What has a heart that doesn't beat?",
+        "choice_list": [
+            "A robot possesses a symbolic heart, devoid of the rhythmic beats of a biological organ.",
+            "A vegetable, like a beet, has a heart-like center but lacks the pulsating rhythm of life.",
+            "A broken clock retains a heart-shaped design but fails to beat with the passing of time.",
+            "None of the above"
+        ],
+        "choice_order": 2
+    },
+    {
+        "question": "I have cities but no houses, mountains but no trees, and water but no fish. What am I?",
+        "choice_list": [
+            "An abstract painting depicts cities, mountains, and water in a surreal composition.",
+            "A globe showcases cities, mountains, and oceans without the presence of actual dwellings or trees.",
+            "A holographic projection projects virtual landscapes featuring cities, mountains, and water.",
+            "None of the above"
+        ],
+        "choice_order": 3
+    },
+    {
+        "question": "What has a head, a tail, is brown, and has no legs?",
+        "choice_list": [
+            "A river has a starting point (head) and an endpoint (tail), appearing brown in certain conditions.",
+            "A coin, like a penny, features a head on one side and a tail on the other, displaying a brown hue.",
+            "A log, when cut, reveals a cross-section resembling a head and a tail, with a brownish color.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I fly without wings. I cry without eyes. Wherever I go, darkness follows me. What am I?",
+        "choice_list": [
+            "A kite soars through the sky, riding the wind without physical wings.",
+            "An onion, when cut, releases pungent compounds that induce tears without visible eyes.",
+            "A black hole in space travels through the cosmos, casting darkness in its wake.",
+            "None of the above"
+        ],
+        "choice_order": 3
+    },
+    {
+        "question": "The more you cut me, the bigger I grow. What am I?",
+        "choice_list": [
+            "A plant, when pruned, flourishes with new growth, defying conventional expectations.",
+            "A debt, when reduced, seems to grow larger with accumulating interest.",
+            "A mountain, shaped by erosion and cutting forces, stands taller over time.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I have keys but no locks. I have space but no room. You can enter, but you can't go inside. What am I?",
+        "choice_list": [
+            "A keyboard possesses keys but lacks physical locks, opening digital realms.",
+            "A parking lot provides space for vehicles without enclosed rooms.",
+            "A webpage allows entry but lacks a tangible inside.",
+            "None of the above"
+        ],
+        "choice_order": 2
+    },
+    {
+        "question": "What has a heart that doesn't beat?",
+        "choice_list": [
+            "A song's lyrics carry emotional weight, containing a metaphorical heart.",
+            "A fruit preserves its shape, featuring a heart-like core that remains still.",
+            "A clock's mechanism fails, leaving a heart that ceases to beat.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I have cities but no houses, mountains but no trees, and water but no fish. What am I?",
+        "choice_list": [
+            "A map illustrates cities, mountains, and water bodies without real structures.",
+            "An atlas details landscapes, featuring cities, mountains, and water but devoid of life.",
+            "A computer simulation generates virtual environments, including cities, mountains, and water.",
+            "None of the above"
+        ],
+        "choice_order": 2
+    },
+    {
+        "question": "What has a head, a tail, is brown, and has no legs?",
+        "choice_list": [
+            "A penny features a head on one side, a tail on the other, and lacks legs.",
+            "A snake slithers with a head and a tail, exhibiting a brown coloration.",
+            "A mushroom grows with a head, resembling a cap, and lacks visible legs.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "What has keys but can't open locks?",
+        "choice_list": [
+            "A piano's harmony resonates through its melodies, unlocking emotions.",
+            "A typewriter's clattering keys create stories, but doors remain shut.",
+            "A smartphone's touch-sensitive screen mimics keys, yet it stays secure.",
+            "None of the above"
+        ],
+        "choice_order": 2
+    },
+    {
+        "question": "What has cities but no houses, forests but no trees, and rivers but no water?",
+        "choice_list": [
+            "A map intricately displays cities, forests, and rivers, devoid of reality.",
+            "A dreamland exists in the mind, featuring cities, forests, and rivers.",
+            "A book's pages unfold imaginary cities, forests, and rivers.",
+            "None of the above"
+        ],
+        "choice_order": 3
+    },
+    {
+        "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
+        "choice_list": [
+            "An echo bounces off surfaces, carrying words without a vocal source.",
+            "A radio waves transmit messages, speaking without physical form.",
+            "A library's whispers capture stories, unheard by human ears.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "The more you take, the more you leave behind. What am I?",
+        "choice_list": [
+            "Footsteps imprint the ground, leaving a trail with every step taken.",
+            "A photographer captures memories, taking pictures but leaving the moment behind.",
+            "Time moves forward, taking moments into the past.",
+            "None of the above"
+        ],
+        "choice_order": 3
+    },
+    {
+        "question": "I fly without wings. I cry without eyes. Wherever I go, darkness follows me. What am I?",
+        "choice_list": [
+            "A cloud soars through the sky, shedding rain without visible tears.",
+            "A bat navigates the night, flying without traditional wings.",
+            "A shadow moves with its owner, casting darkness wherever it goes.",
+            "None of the above"
+        ],
+        "choice_order": 3
+    },
+    {
+        "question": "The more you cut me, the bigger I grow. What am I?",
+        "choice_list": [
+            "A river carves its path through the landscape, growing wider with each cut.",
+            "A tree, when pruned, flourishes with new branches, defying conventional growth.",
+            "A wound heals by growing new tissue, expanding with each cut's closure.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I have keys but no locks. I have space but no room. You can enter, but you can't go inside. What am I?",
+        "choice_list": [
+            "A keyboard possesses keys but lacks physical locks, opening digital realms.",
+            "A parking lot provides space for vehicles without enclosed rooms.",
+            "A webpage allows entry but lacks a tangible inside.",
+            "None of the above"
+        ],
+        "choice_order": 2
+    },
+    {
+        "question": "What has a heart that doesn't beat?",
+        "choice_list": [
+            "A song's lyrics carry emotional weight, containing a metaphorical heart.",
+            "A fruit preserves its shape, featuring a heart-like core that remains still.",
+            "A clock's mechanism fails, leaving a heart that ceases to beat.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    },
+    {
+        "question": "I have cities but no houses, mountains but no trees, and water but no fish. What am I?",
+        "choice_list": [
+            "A map illustrates cities, mountains, and water bodies without real structures.",
+            "An atlas details landscapes, featuring cities, mountains, and water but devoid of life.",
+            "A computer simulation generates virtual environments, including cities, mountains, and water.",
+            "None of the above"
+        ],
+        "choice_order": 2
+    },
+    {
+        "question": "What has a head, a tail, is brown, and has no legs?",
+        "choice_list": [
+            "A penny features a head on one side, a tail on the other, and lacks legs.",
+            "A snake slithers with a head and a tail, exhibiting a brown coloration.",
+            "A mushroom grows with a head, resembling a cap, and lacks visible legs.",
+            "None of the above"
+        ],
+        "choice_order": 1
+    }
+]
