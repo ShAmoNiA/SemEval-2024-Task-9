@@ -1,6 +1,5 @@
 import csv
 
-
 file_path = 'main.csv'
 List_hold = []
 
