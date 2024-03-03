@@ -1,0 +1,12 @@
+S_ori:0.775
+S_sem:0.8
+S_con:0.7
+S_ori_sem:0.7
+S_ori_sem_con:0.55
+S_overall:0.7583333333333333
+W_ori:0.625
+W_sem:0.5625
+W_con:0.625
+W_ori_sem:0.4375
+W_ori_sem_con:0.3125
+W_overall:0.6041666666666666
